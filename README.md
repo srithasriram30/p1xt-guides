@@ -35,7 +35,7 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
   
 | Courses                                                                                                       | Status | Evidence |
 | :------------------------------------------------------------------------------------------------------------ | :----: | :------: |
-| [Comprehensive Introduction to HTML for Beginners](https://learn.codesignal.com/preview/course-paths/50)      |        |          |
+| [Comprehensive Introduction to HTML for Beginners](https://learn.codesignal.com/preview/course-paths/50)      |   In Progress     |          |
 | [Comprehensive Introduction to Front-End Engineering](https://learn.codesignal.com/preview/course-paths/12)   |        |          |
 | [JavaScript Programming for Beginners](https://learn.codesignal.com/preview/course-paths/7)                   |        |          |
 | [Build a Space Travel Website with Frontend Mentor](https://v2.scrimba.com/build-a-space-travel-website-c014) |        |          |
